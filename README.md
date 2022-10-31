@@ -1,7 +1,7 @@
 # Microsoft-Project
 AZURE LINK :https://mango-stone-012fb2000.2.azurestaticapps.net
 
-YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
+YOUTUBE LINK : https://youtube.com/watch?v=Hq0Ft-vg7m8&feature=share
 
 PROJECT DEMO URL: https://rohinichigurupati2003.github.io/Microsoft-Project/
 
