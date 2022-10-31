@@ -1,5 +1,5 @@
 # Microsoft-Project
-AZURE LINK : https://ashy-stone-08d3a1f10.2.azurestaticapps.net
+AZURE LINK :https://mango-stone-012fb2000.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
