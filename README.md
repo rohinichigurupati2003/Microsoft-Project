@@ -3,7 +3,7 @@ AZURE LINK :https://mango-stone-012fb2000.2.azurestaticapps.net
 
 YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL: https://rohinichigurupati2003.github.io/Microsoft-Project/
 
 
 PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
