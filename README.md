@@ -72,8 +72,7 @@ My project is about Robotics.The Robotics develops machines that can substitute 
 
  
 # Screenshots
-![keert jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
-![keerthi jr frp mob cap](https://user-images.githubusercontent.com/85716910/197338218-a21d0704-a24e-463f-bc5f-5d23c52040b9.PNG)
+![pc capt](https://user-images.githubusercontent.com/111955126/199016299-884da69c-06e4-4a18-9887-e98e63f445ef.png)
 
 
 # About Us
