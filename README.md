@@ -6,13 +6,12 @@ YOUTUBE LINK : https://youtu.be/-vc79aJZNcM
 PROJECT DEMO URL: https://rohinichigurupati2003.github.io/Microsoft-Project/
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY :https://github.com/rohinichigurupati2003
 
 
 
 
-
-EduWell is my project that is done as also called an online course, is any course taught online instead of in-person. Many ecourses are pre-recorded, but can also include many other components that create an engaging learning experience outside of a traditional classroom environment
+My project is about Robotics.The Robotics develops machines that can substitute for humans and replicate human actions also robotics can be used in many situations for many purposes.Many of todays robots are inspired by nature contributing to the field of bio-inspired robotics.
 
 # Features
 -  Good UI
@@ -73,14 +72,15 @@ EduWell is my project that is done as also called an online course, is any cours
 
  
 # Screenshots
-![keerthi jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
+![keert jr frp pc cap](https://user-images.githubusercontent.com/85716910/197338213-1d7c86d4-9f9e-431a-b0ab-29bd9dbc6cdb.PNG)
 ![keerthi jr frp mob cap](https://user-images.githubusercontent.com/85716910/197338218-a21d0704-a24e-463f-bc5f-5d23c52040b9.PNG)
 
 
 # About Us
 i am BTech pursuing Students,from 3rd year i considered this as problem as we facing the same situtaion regularly.
 
--  Keerthi Korumilli
+- Ch.Rohini
+- B.Yamini
 
 
 # Privacy Policies 
