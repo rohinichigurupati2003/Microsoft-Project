@@ -70,7 +70,8 @@ Azure Environment
 
 # Project WorkFlow
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
+![wrkflow](https://user-images.githubusercontent.com/111955126/199019337-0deaa624-231d-4136-8d3e-80a231083b73.png)
+
 
  
 # Screenshots
