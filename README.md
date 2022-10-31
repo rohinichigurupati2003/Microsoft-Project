@@ -11,7 +11,7 @@ PROJECT LINK(GITHUB REPOSITORY :https://github.com/rohinichigurupati2003
 
 
 
-My project is about Robotics.The Robotics develops machines that can substitute for humans and replicate human actions also robotics can be used in many situations for many purposes.Many of todays robots are inspired by nature contributing to the field of bio-inspired robotics.
+My project is our project Robotics.The Robotics develops machines that can substitute for humans and replicate human actions also robotics can be used in many situations for many purposes.Many of todays robots are inspired by nature contributing to the field of bio-inspired robotics.
 
 # Features
 -  Good UI
