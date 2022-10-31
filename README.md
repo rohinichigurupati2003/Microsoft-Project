@@ -59,9 +59,9 @@ My project is about Robotics.The Robotics develops machines that can substitute 
 
 # Deployment  Screenshots
 
-- Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+Azure Environment
 
+-  ![azr capt](https://user-images.githubusercontent.com/111955126/199018313-5178c4c4-cdf5-4a1e-96ed-fbf6ed471f5e.png) 
 
 - Github Runtime Actions
 
