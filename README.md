@@ -64,7 +64,9 @@ My project is about Robotics.The Robotics develops machines that can substitute 
 
 
 - Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+
+![github act](https://user-images.githubusercontent.com/111955126/199017370-8365e5dc-8020-4258-88cf-257d280c5f2b.png)
+
 
 # Project WorkFlow
 
@@ -72,6 +74,7 @@ My project is about Robotics.The Robotics develops machines that can substitute 
 
  
 # Screenshots
+
 ![pc capt](https://user-images.githubusercontent.com/111955126/199016299-884da69c-06e4-4a18-9887-e98e63f445ef.png)
 
 
